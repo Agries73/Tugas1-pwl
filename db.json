@@ -1,0 +1,79 @@
+{
+  "ListBarang": [
+    {
+      "id": 1,
+      "nama": "20 Mbps",
+      "harga": 280000,
+      "jumlah": "1 bulan",
+      "is_ready": true,
+      "gambar": "dupuluh.jpg",
+      "category": {
+        "id": 1,
+        "nama":"Paket Inditil"
+      }
+    },
+    {
+      "id": 2,
+      "nama": "30 Mbps",
+      "harga": 340000,
+      "jumlah": "1 bulan",
+      "is_ready": true,
+      "gambar": "gapuluh.jpg",
+      "category": {
+        "id": 2,
+        "nama":"Paket Inditil"
+      }
+    },
+    {
+      "id": 3,
+      "nama": "50 Mbps",
+      "harga": 600000,
+      "jumlah": "1 bulan",
+      "is_ready": true,
+      "gambar": "mapuluh.jpg",
+      "category": {
+        "id": 3,
+        "nama":"Paket Inditil"
+      }
+    }
+  ],
+  "ListToko": [
+    {
+      "id": 1,
+      "nama": "Inditil",
+      "menjual": "Internet / Wifi",
+      "jarak": "2km",
+      "is_ready": true,
+      "gambar": "inditil.jpg",
+      "category": {
+        "id": 1,
+        "nama":"Toko"
+      }
+    },
+    {
+      "id": 2,
+      "nama": "Soped 9.9",
+      "menjual": "Baju Sedia Pakai",
+      "jarak": "10km",
+      "is_ready": true,
+      "gambar": "Soped.jpg",
+      "category": {
+        "id": 2,
+        "nama":"Toko"
+      }
+    },
+    {
+      "id": 3,
+      "nama": "Lazurdi Store",
+      "menjual": "Barang Rusak Saat Diantar",
+      "jarak": "3km",
+      "is_ready": true,
+      "gambar": "Lazurwadi.jpg",
+      "category": {
+        "id": 3,
+        "nama":"Toko"
+      }
+    }
+    
+  ]
+}
